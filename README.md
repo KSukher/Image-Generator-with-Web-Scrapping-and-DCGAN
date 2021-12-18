@@ -7,3 +7,4 @@ Included in this repo are as follows,
   * AI Generated Artwork - Web Scrapper (Local) - Notebook code for creating a dataset of images based on adjustable parameters on a local machine in Jupyter Notebook.
   * AI Generated Artwork - Web Scrapper (Colab) - Notebook code for creating a dataset of images based on adjustable parameters on Google Colab.
   * AI Generated Artwork - DCGAN Model - Notebook code for training, testing and generating images based off a dataset using a DCGAN model on Google Colab.
+  * dataset - a dataset example of 100 image examples scrapped off shutterscape.com that were used on the DCGAN model.
